@@ -2,11 +2,11 @@
 .body{height:100vh;width:100vw;background-color: darkslategrey;
   display:grid; place-items: center;}
 .main{
-  height:450px;width:280px; border-radius:10px;
+  height:450px;width:310px; border-radius:10px;
   box-shadow:5px 5px 25px -3px rgba(0,0,0,0.9)
 }
 .main h2{text-transform: capitalize; text-align:center; height:40px; color:ivory ;margin:0 0 15px 0;background-color: #111;}
-.additem{border-bottom:2px solid black;width:44vh;margin:auto}
+.additem{border-bottom:2px solid black;width:85%;margin:auto; padding:0 2px}
 .additem input{ border:none; outline:none; background-color:transparent; padding-left:10px; font-size:16px;}
 
 
